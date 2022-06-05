@@ -9,3 +9,5 @@ $ cd ~/.ssh
 $ ls
   id_rsa    id_rsa.pub
 $ ssh-keygen
+$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAklOUpkD...
